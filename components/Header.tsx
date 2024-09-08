@@ -16,8 +16,8 @@ const menuItems = [
 
 export default function Header() {
   return (
-    <header>
-      <nav className="flex justify-between items-center border-b border-[rgb(140 140 140 / .25)]">
+    <header className="fixed bg-white w-full left-0 top-0 border-b border-[rgb(140 140 140 / .25)] z-10">
+      <nav className="flex justify-between items-center max-w-[1112px] mx-auto">
         <Link href="/">ama</Link>
         <ul className="flex items-center min-h-[52px]">
           {menuItems.map((item) => {

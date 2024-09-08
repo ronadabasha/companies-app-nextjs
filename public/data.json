@@ -1,0 +1,206 @@
+{
+  "companies": [
+    {
+      "name": "Microsoft",
+      "about": "Every company has a mission. What's ours? To empower every person and every organization to achieve more. We believe technology can and should be a force for good and that meaningful innovation contributes to a brighter world in the future and today. Our culture doesn’t just encourage curiosity; it embraces it. Each day we make progress together by showing up as our authentic selves. We show up with a learn-it-all mentality. We show up cheering on others, knowing their success doesn't diminish our own. We show up every day open to learning our own biases, changing our behavior, and inviting in differences. Because impact matters. \n\nMicrosoft operates in 190 countries and is made up of approximately 228,000 passionate employees worldwide.",
+      "hq_country": "us"
+    },
+    {
+      "name": "SAP",
+      "about": "SAP is the leading enterprise application and business AI company. We stand at the intersection of business and technology, where our innovations are designed to directly address real business challenges and produce real-world impacts.\n\nOur solutions are the backbone for the world’s most complex and demanding processes. SAP’s integrated portfolio unites the elements of modern organizations — from workforce and financials to customers and supply chains — into a unified ecosystem that drives progress.",
+      "hq_country": "de"
+    },
+    {
+      "name": "Ubisoft",
+      "about": "Ubisoft’s 19,000 team members, working across more than 30 countries around the world, are bound by a common mission to enrich players’ lives with original and memorable gaming experiences.\n\nTheir commitment and talent have brought to life many acclaimed franchises such as Assassin’s Creed, Far Cry, Watch Dogs, Just Dance, Rainbow Six, and many more to come. \n\nUbisoft is an equal opportunity employer that believes diverse backgrounds and perspectives are key to creating worlds where both players and teams can thrive and express themselves. \n\nIf you are excited about solving game changing challenges, cutting edge technologies and pushing the boundaries of entertainment, we invite you to join our journey and help us Create the unknown.",
+      "hq_country": "fr"
+    },
+    {
+      "name": "Apple",
+      "about": "Apple revolutionized personal technology with the introduction of the Macintosh in 1984. Today, Apple leads the world in innovation with iPhone, iPad, Mac, Apple Watch, and Apple TV. Apple’s software platforms—iOS, macOS, watchOS, and tvOS—provide seamless experiences across all Apple devices and empower people with breakthrough services including the App Store, Apple Music, Apple Pay, and iCloud. Apple’s 100,000 employees are dedicated to making the best products on earth, and to leaving the world better than we found it.",
+      "hq_country": "us"
+    },
+    {
+      "name": "Amazon",
+      "about": "Amazon strives to be Earth’s most customer-centric company where people can find and discover virtually anything they want to buy online. By giving customers more of what they want - low prices, vast selection, and convenience - Amazon continues to grow and evolve as a world-class e-commerce platform. Additionally, Amazon is driven by a passion for invention and the desire to have a positive impact on customers, employees, small businesses, the economy, and communities.",
+      "hq_country": "us"
+    },
+    {
+      "name": "Google",
+      "about": "Google’s mission is to organize the world’s information and make it universally accessible and useful. Since its founding in 1998, Google has grown to offer a wide range of products and services that enable billions of people around the globe to interact with information in new and innovative ways. With more than 130,000 employees worldwide, Google is a subsidiary of Alphabet Inc. and remains committed to its mission of helping people find the information they need, whenever and wherever they need it.",
+      "hq_country": "us"
+    },
+    {
+      "name": "Tesla",
+      "about": "Tesla’s mission is to accelerate the world’s transition to sustainable energy. Since its founding in 2003, Tesla has redefined the automotive industry with its innovative electric vehicles, and has expanded its impact by developing renewable energy products for homes, businesses, and utilities. Tesla’s employees are driven by the challenge of building a better future for everyone through sustainable transportation and energy production.",
+      "hq_country": "us"
+    },
+    {
+      "name": "Sony",
+      "about": "Sony is a global leader in entertainment and technology. With a diverse portfolio that includes gaming, music, film, and electronics, Sony is dedicated to inspiring and fulfilling people’s curiosity. From the PlayStation gaming consoles to its award-winning movie studio and music label, Sony is committed to delivering innovative experiences and creating products that move people emotionally.",
+      "hq_country": "jp"
+    },
+    {
+      "name": "Facebook",
+      "about": "Facebook, now known as Meta, is focused on building the metaverse, a shared virtual environment where people can connect, work, and play. Meta is also the parent company of Facebook, Instagram, WhatsApp, and Oculus, connecting billions of people worldwide through its social media platforms and virtual reality products. Meta's mission is to give people the power to build community and bring the world closer together.",
+      "hq_country": "us"
+    },
+    {
+      "name": "IBM",
+      "about": "IBM is a global technology and innovation company headquartered in Armonk, New York. It is the largest technology and consulting employer in the world, with more than 350,000 employees serving clients in 170 countries. IBM’s Watson AI platform, quantum computing innovations, and deep industry expertise empower businesses to solve complex problems, make better decisions, and optimize operations.",
+      "hq_country": "us"
+    },
+    {
+      "name": "Intel",
+      "about": "Intel is a leader in the semiconductor industry, known for developing cutting-edge processors and other technologies that power everything from personal computers to data centers and AI. Founded in 1968, Intel continues to drive innovation in computing, connectivity, and cloud solutions, helping to shape the future of technology and the digital economy.",
+      "hq_country": "us"
+    },
+    {
+      "name": "Samsung",
+      "about": "Samsung Electronics is a global leader in technology, opening new possibilities for people everywhere. Through relentless innovation and discovery, Samsung is transforming the worlds of TVs, smartphones, wearable devices, tablets, digital appliances, network systems, and memory, system LSI, foundry and LED solutions. Samsung employs over 300,000 people across the globe and has annual sales of around USD 200 billion.",
+      "hq_country": "kr"
+    },
+    {
+      "name": "Netflix",
+      "about": "Netflix is the world's leading streaming entertainment service with 209 million paid memberships in over 190 countries enjoying TV series, documentaries and feature films across a wide variety of genres and languages. Members can watch as much as they want, anytime, anywhere, on any internet-connected screen. Netflix's mission is to entertain the world.",
+      "hq_country": "us"
+    },
+    {
+      "name": "Oracle",
+      "about": "Oracle is a global technology company that provides cloud applications and platform services. With more than 430,000 customers in 175 countries, Oracle's technology and applications are the backbone of many of the largest businesses and governments in the world. Oracle’s mission is to help people see data in new ways, discover insights, unlock endless possibilities, and lead innovation.",
+      "hq_country": "us"
+    },
+    {
+      "name": "Adobe",
+      "about": "Adobe is changing the world through digital experiences. Our game-changing innovations are redefining the possibilities of digital experiences, connecting people and brands in new ways and helping businesses succeed in an increasingly digital world. Adobe’s products, such as Photoshop, Illustrator, and Acrobat, are essential tools for creatives, designers, and professionals across industries.",
+      "hq_country": "us"
+    },
+    {
+      "name": "Nvidia",
+      "about": "Nvidia is the world leader in visual computing technologies and is the inventor of the GPU, which has revolutionized computing across a wide variety of industries. Nvidia’s products power everything from gaming PCs to AI research and self-driving cars. Nvidia continues to push the boundaries of what’s possible in computing, artificial intelligence, and machine learning.",
+      "hq_country": "us"
+    },
+    {
+      "name": "Alibaba",
+      "about": "Alibaba Group is the world's largest retail and e-commerce company, providing consumer-to-consumer, business-to-consumer, and business-to-business sales services via web portals. Alibaba also offers electronic payment services, shopping search engines, and cloud computing services. The company aims to build the future infrastructure of commerce.",
+      "hq_country": "cn"
+    },
+    {
+      "name": "Salesforce",
+      "about": "Salesforce is the world’s #1 customer relationship management (CRM) platform. We help companies of all sizes and industries connect with their customers in a whole new way with our CRM solutions. Salesforce is dedicated to helping businesses transform how they operate and compete, with the aim of creating a future where companies are trusted and loved by their customers.",
+      "hq_country": "us"
+    },
+    {
+      "name": "Twitter",
+      "about": "Twitter is what's happening in the world and what people are talking about right now. From breaking news and entertainment to sports and politics, get the full story with all the live commentary. Twitter’s mission is to give everyone the power to create and share ideas and information instantly, without barriers.",
+      "hq_country": "us"
+    },
+    {
+      "name": "Baidu",
+      "about": "Baidu is a Chinese multinational technology company specializing in Internet-related services and products and artificial intelligence (AI). Baidu is one of the largest AI and internet companies in the world and has been at the forefront of many technological advancements in AI, autonomous driving, and digital healthcare.",
+      "hq_country": "cn"
+    }
+  ],
+  "people": [
+    {
+      "name": "Bill Gates",
+      "about": "Co-chair of the Bill & Melinda Gates Foundation. Founder of Breakthrough Energy. Co-founder of Microsoft. Voracious reader. Avid traveler. Active blogger.Co-chair of the Bill & Melinda Gates Foundation. Founder of Breakthrough Energy. Co-founder of Microsoft. Voracious reader. Avid traveler. Active blogger.",
+      "country": "us"
+    },
+    {
+      "name": "Christian Klein",
+      "about": "As Chief Executive Officer and member of the Executive Board of SAP SE, I am responsible for the strategic direction, management, and performance of SAP. As Chief Executive Officer and member of the Executive Board of SAP SE, I am responsible for the strategic direction, management, and performance of SAP.",
+      "country": "de"
+    },
+    {
+      "name": "Yves Guillemot",
+      "about": "Ubisoft is a collective ride that my brothers and I started 36 years ago with the strong conviction that video games have the power to bring people together and create lasting memories. Throughout the years, many joined the adventure, and we rapidly expanded our family business to a global network of 20,000+ diverse, passionate, and committed talents across all fields of expertise. Seizing tech disruptions and opportunities has become our trademark and, combined with the endless creativity of our teams, we've continuously turned bold ideas into acclaimed franchises like Assassin's Creed, Far Cry, Just Dance, or Tom Clancy's Rainbow Six Siege. Together, we will keep on shaping the future of entertainment and enrich the lives of millions.",
+      "country": "fr"
+    },
+    {
+      "name": "Tim Cook",
+      "about": "As the CEO of Apple, Tim Cook has overseen the expansion of the company’s product line and its push into new technologies like wearables, augmented reality, and services. Cook is known for his operational expertise and commitment to privacy, environmental sustainability, and supply chain responsibility. Under his leadership, Apple has become the world's most valuable company.",
+      "country": "us"
+    },
+    {
+      "name": "Andy Jassy",
+      "about": "Andy Jassy is the President and CEO of Amazon. Before becoming CEO, Jassy was the CEO of Amazon Web Services (AWS), where he played a pivotal role in transforming AWS into the world's largest and most profitable cloud platform. Jassy is known for his customer obsession, innovation, and operational excellence.",
+      "country": "us"
+    },
+    {
+      "name": "Sundar Pichai",
+      "about": "Sundar Pichai is the CEO of Google and its parent company, Alphabet Inc. Pichai joined Google in 2004 and led the development of key products like Chrome, Android, and Google Apps. As CEO, he oversees Google's product development and technology strategy, focusing on areas like AI, cloud computing, and quantum computing.",
+      "country": "us"
+    },
+    {
+      "name": "Elon Musk",
+      "about": "Elon Musk is the CEO and lead designer of SpaceX, CEO and product architect of Tesla, Inc., and CEO of Twitter. Musk is known for his ambitious vision of the future, including the colonization of Mars, the development of sustainable energy solutions, and the advancement of artificial intelligence.",
+      "country": "us"
+    },
+    {
+      "name": "Kenichiro Yoshida",
+      "about": "Kenichiro Yoshida is the CEO of Sony Corporation. Under his leadership, Sony has focused on its strengths in entertainment, gaming, and electronics, with an emphasis on integrating its diverse business units. Yoshida has steered Sony through challenging market conditions and reinforced its position as a leader in innovation.",
+      "country": "jp"
+    },
+    {
+      "name": "Mark Zuckerberg",
+      "about": "Mark Zuckerberg is the founder and CEO of Meta (formerly Facebook). He started Facebook in 2004 while attending Harvard University, and it quickly grew into the world’s largest social media platform. Zuckerberg is currently focused on the development of the metaverse, an immersive digital universe that Meta is building.",
+      "country": "us"
+    },
+    {
+      "name": "Arvind Krishna",
+      "about": "Arvind Krishna is the Chairman and CEO of IBM. Krishna is known for his work in the field of cloud computing and AI, and he played a key role in IBM's acquisition of Red Hat. As CEO, he has focused on transforming IBM into a hybrid cloud and AI company, leading the company into a new era of innovation.",
+      "country": "us"
+    },
+    {
+      "name": "Pat Gelsinger",
+      "about": "Pat Gelsinger is the CEO of Intel Corporation. With over four decades of technology and leadership experience, Gelsinger is known for his deep understanding of the semiconductor industry. He has returned to Intel with a vision to restore the company's leadership in manufacturing and innovation, with a focus on AI, 5G, and edge computing.",
+      "country": "us"
+    },
+    {
+      "name": "Kim Ki-nam",
+      "about": "Kim Ki-nam is the Vice Chairman and CEO of Samsung Electronics. He has played a key role in driving Samsung’s success in the semiconductor and electronics markets. Under his leadership, Samsung continues to be a global leader in memory chips, smartphones, and consumer electronics.",
+      "country": "kr"
+    },
+    {
+      "name": "Reed Hastings",
+      "about": "Reed Hastings is the co-founder and co-CEO of Netflix. Hastings is a pioneer in the streaming industry, leading Netflix’s transformation from a DVD rental service to the world’s largest streaming platform. His vision has redefined how people consume entertainment, making Netflix a household name.",
+      "country": "us"
+    },
+    {
+      "name": "Safra Catz",
+      "about": "Safra Catz is the CEO of Oracle Corporation. She has been with Oracle since 1999 and has played a key role in its growth and success. Catz is known for her financial acumen and strategic leadership, overseeing Oracle’s transition to cloud computing and expanding its product portfolio.",
+      "country": "us"
+    },
+    {
+      "name": "Shantanu Narayen",
+      "about": "Shantanu Narayen is the Chairman, President, and CEO of Adobe Inc. Under his leadership, Adobe has transformed into a global leader in digital experiences and cloud-based software. Narayen is known for his focus on innovation, customer experience, and Adobe's shift to a subscription-based business model.",
+      "country": "us"
+    },
+    {
+      "name": "Jensen Huang",
+      "about": "Jensen Huang is the founder and CEO of Nvidia Corporation. Huang is a pioneer in the graphics processing industry and has led Nvidia’s expansion into AI, high-performance computing, and autonomous vehicles. His vision has made Nvidia a key player in the technology landscape.",
+      "country": "us"
+    },
+    {
+      "name": "Daniel Zhang",
+      "about": "Daniel Zhang is the Chairman and CEO of Alibaba Group. Zhang is known for his strategic vision and operational excellence, leading Alibaba’s expansion into new markets and industries. Under his leadership, Alibaba has grown into a global e-commerce giant, with a focus on innovation, digital transformation, and customer experience.",
+      "country": "cn"
+    },
+    {
+      "name": "Marc Benioff",
+      "about": "Marc Benioff is the founder, Chairman, and CEO of Salesforce. He is a pioneer in cloud computing and has built Salesforce into the world’s leading customer relationship management (CRM) platform. Benioff is also known for his philanthropic efforts and commitment to social responsibility.",
+      "country": "us"
+    },
+    {
+      "name": "Linda Yaccarino",
+      "about": "Linda Yaccarino is the CEO of Twitter, appointed in 2023. Before joining Twitter, she was Chairman of Global Advertising & Partnerships at NBCUniversal, where she transformed the company’s advertising business. Yaccarino is known for her ability to drive growth and innovation in the media and technology industries.",
+      "country": "us"
+    },
+    {
+      "name": "Robin Li",
+      "about": "Robin Li is the co-founder, Chairman, and CEO of Baidu. Li is a leading figure in China’s technology industry and has played a key role in developing Baidu into one of the world’s largest AI and internet companies. His vision and leadership have been instrumental in Baidu’s success in search, AI, and autonomous driving.",
+      "country": "cn"
+    }
+  ]
+}
