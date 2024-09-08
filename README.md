@@ -39,9 +39,9 @@ npm run build
 
 ### app - in this folder are included:
 
-- ceos folder - for ceos routing
-- companies folder - for companies routing
-- in the page.tsx I did a redirection to ceos page, because no time to create an Home Page
+- ceos folder - for ceos page
+- companies folder - for companies page
+- in the page.tsx I did a redirection to ceos page, because no time to create a Home Page
 - is added provider.tsx for DataProvider.
 
 ### components - in this folder are included:
