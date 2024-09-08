@@ -16,9 +16,11 @@ const menuItems = [
 
 export default function Header() {
   return (
-    <header className="fixed bg-white w-full left-0 top-0 border-b border-[rgb(140 140 140 / .25)] z-10">
+    <header className="px-4 min-[1125px]:px-0 fixed bg-white w-full left-0 top-0 border-b border-[rgb(140 140 140 / .25)] z-10">
       <nav className="flex justify-between items-center max-w-[1112px] mx-auto">
-        <Link href="/">ama</Link>
+        <Link href="/" className="font-bold text-md">
+          ama
+        </Link>
         <ul className="flex items-center min-h-[52px]">
           {menuItems.map((item) => {
             return (
