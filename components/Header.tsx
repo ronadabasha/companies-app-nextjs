@@ -18,7 +18,7 @@ export default function Header() {
   return (
     <header>
       <nav className="flex justify-between items-center border-b border-[rgb(140 140 140 / .25)]">
-        <Link href="/">Brand</Link>
+        <Link href="/">ama</Link>
         <ul className="flex items-center min-h-[52px]">
           {menuItems.map((item) => {
             return (
