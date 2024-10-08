@@ -1,4 +1,4 @@
-## AMA Challenge
+## App to show Companies & CEOs
 
 ## [Check it live here](https://ama-challenge.netlify.app/)
 
